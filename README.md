@@ -15,14 +15,7 @@ This project demonstrates modern Android development practices including **Mater
 - Browse popular courses
 - View recommended learning content
 - Access promotional courses through the banner section
-
-### Subjects
-- AI
-- Machine Learning
-- Deep Learning
-- Coding
-
-Users can select a subject to view related courses.
+- Users can select a subject to view related courses.
 
 ### Course Browsing
 Each subject contains multiple courses with:
