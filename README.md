@@ -66,23 +66,4 @@ User settings include:
 ---
 
 ## Project Structure
-CP5307Project
-│
-├── MainActivity.kt
-├── Home Screen
-│ ├── Banner Promotion
-│ ├── Subject Section
-│ ├── Popular Courses
-│ └── Recommended Courses
-│
-├── Course Screens
-│ ├── Subject Course List
-│ └── Course Watch Page
-│
-├── Learning Screen
-│ ├── Progress Tracking
-│ └── Course Details
-│
-├── Search Screen
-│
-└── Settings Screen
+<img width="411" height="860" alt="image" src="https://github.com/user-attachments/assets/bada15ce-3eca-411d-8be8-91986b4f292a" />
